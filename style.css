@@ -17,7 +17,7 @@ main{
     justify-content: space-between;
     padding: 0px 2rem;
 }
-main .ping-r, .ping-l{
+main .ping-l, .ping-r{
     width: 25px;
     height: 200px;
     background-color: blanchedalmond;
@@ -39,4 +39,7 @@ main .counter span{
    font-size: 20px;
    font-weight: 600;
    
+}
+.pingSelected{
+    border: 2px solid red;
 }
